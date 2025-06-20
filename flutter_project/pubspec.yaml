@@ -1,0 +1,18 @@
+name: flutter_project
+description: Projeto de exemplo que muda cor da tela e texto ao clicar.
+
+publish_to: 'none'
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
